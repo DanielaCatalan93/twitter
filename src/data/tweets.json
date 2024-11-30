@@ -1,0 +1,23 @@
+[
+  { "id": 1, "author": "Javier", "content": "Hola Twitter" },
+  {
+    "id": 2,
+    "author": "Paola",
+    "content": "Primer Tweet"
+  },
+  {
+    "id": 3,
+    "author": "Anita",
+    "content": "Qué es esto?"
+  },
+  {
+    "id": 4,
+    "author": "Carla",
+    "content": "Está horrible, mejor X"
+  },
+  {
+    "id": 5,
+    "author": "Lisa",
+    "content": "Chupalo Karol Dance!"
+  }
+]
